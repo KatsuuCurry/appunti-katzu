@@ -5,6 +5,7 @@
 ### Primo anno (A.A. 22/23)
 - `Programmazione I` ⟶ Riassunto utile principalmente per la parte teorica dell'esame;
 - `Analisi Matematica` ⟶ Riassunto della teoria utile per lo svolgimento degli esercizi;
+- `Programmazione II` ⟶ Riassunto teorico del corso;
 - `Archittetura degli Elaboratori` ⟶ Riassunto completo di ogni macroargomento;
 - `Algoritmi e Strutture Dati` ⟶ Riassunto teorico del corso.
 
