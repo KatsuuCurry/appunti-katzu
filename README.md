@@ -10,6 +10,10 @@
 - `Algoritmi e Strutture Dati` ⟶ Riassunto teorico del corso.
 
 ### Secondo anno (A.A 23/24)
+- `Linguaggi di Programmazione` ⟶ Domande teoriche del secondo parziale;
+- `Fisica` ⟶ Riassunto della teoria e formulario per gli esercizi;
+- `Reti e Sistemi Operativi` ⟶ Formulario di Reti e Sistemi Operativi;
+- `Linguaggi e Computabilità` ⟶ Appunti delle lezioni;
 _Anno Accademico in corso._
 
 ### Terzo anno (-)
