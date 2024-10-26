@@ -15,6 +15,7 @@
 - `Reti e Sistemi Operativi` ⟶ Formulario di Reti e Sistemi Operativi + Sbobine di tutte le lezioni (N.B. possono esserci errori);
 - `Linguaggi e Computabilità` ⟶ Appunti delle lezioni (Lavoro in corso);
 - `Analisi e Progettazione del Software` ⟶ Parte di appunti delle lezioni (Lavoro in corso);
+- `Sistemi Distribuiti` ⟶ Appunti teorici + Integrazioni personali.
 
 
 ### Terzo anno (A.A. 24/25)
