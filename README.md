@@ -29,7 +29,7 @@
 
     *Consiglio da senpai* 🐸: Esame facile se la traccia non viene scritta da un professore in particolare. 
 
-- `Algebra e Geometria Lineare`
+- `Algebra e Geometria Lineare` ⟶ Nessun appunto.
 
     *Consiglio da senpai* 🐸: Pura fortuna. Utilizzate l'eserciziario del sito rosso, ma onestamente non vi consiglio di memorizzare le risposte senza capire come risolvere l'esercizio.
 
@@ -78,4 +78,4 @@ _Anno Accademico in corso._
 ## ❕ Disclaimer
 In questa repository non sono presenti una buona parte dei corsi affrontati fino ad ora in quanto per alcuni di essi ho ritenuto più opportuno adottare un metodo di studio diverso.
 
-Vorrei inoltre precisare che potrebbero essere presenti degli errori e di contattarmi in caso vogliate contribuire al miglioramento dei miei appunti 🐸
+Vorrei inoltre precisare che potrebbero essere presenti degli errori e di contattarmi in caso vogliate contribuire al miglioramento dei miei appunti 🐸.
