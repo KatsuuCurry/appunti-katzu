@@ -1,23 +1,79 @@
 # Appunti Universitari - Informatica (Triennale)
  Raccolta degli appunti per il corso di Informatica Triennale all'Università degli Studi di Milano-Bicocca.
 
-## Elenco corsi presenti
-### Primo anno (A.A. 22/23)
+## Elenco corsi presenti + Tips & Tricks da senpai 🐸
+### Primo anno (A.A. 22/23) 😊
+#### Primo Semestre
 - `Programmazione I` ⟶ Riassunto utile principalmente per la parte teorica dell'esame;
+
+    *Consiglio da senpai* 🐸: Fate tante tracce d'esame pubblicati su Moodle + quiz (Fate l'orale se potete! Vi fa guadagnare punti ez).
 - `Analisi Matematica` ⟶ Riassunto della teoria utile per lo svolgimento degli esercizi;
+
+    *Consiglio da senpai* 🐸: Seguite le esercitazioni di Susanna Caimi se avete l'accesso all'A.A. 22/23 (Turno 1). Spiega in modo easy-friendly tutti gli esercizi.
+    
+- `Fondamenti dell'Informatica`
+
+    *Consiglio da senpai* 🐸: Fate tanti esercizi e pregate che non esca la bi-implicazione. Attenzione al tempo e non fate la brutta copia.
+
+#### Secondo Semestre
+
 - `Programmazione II` ⟶ Riassunto teorico del corso;
+
+    *Consiglio da senpai* 🐸: Attenzione alla teoria, mi ha tolto molti punti. Il primo parziale è molto facile. Fate tanti esercizi, programmate **come vogliono i professori**.
+    
 - `Archittetura degli Elaboratori` ⟶ Riassunto completo di ogni macroargomento;
+
+    *Consiglio da senpai* 🐸: Non c'è molto da dire, è la morte sua questo esame. Attenzione! L'esame è a sbarramento (almeno al nostro anno). Fate sempre i progettini aggiuntivi per agevolarvi il più possibile l'esame. **Puntate ai compitini!**
+
 - `Algoritmi e Strutture Dati` ⟶ Riassunto teorico del corso.
 
-### Secondo anno (A.A 23/24)
+    *Consiglio da senpai* 🐸: Esame facile se la traccia non viene scritta da un professore in particolare. 
+
+- `Algebra e Geometria Lineare`
+
+    *Consiglio da senpai* 🐸: Pura fortuna. Utilizzate l'eserciziario del sito rosso, ma onestamente non vi consiglio di memorizzare le risposte senza capire come risolvere l'esercizio.
+
+### Secondo anno (A.A. 23/24) 😐
+#### Primo Semestre
 - `Linguaggi di Programmazione` ⟶ Domande teoriche del secondo parziale;
+
+    *Consiglio da senpai* 🐸: Attenzione al progetto! Considerate tutte le casistiche possibili, anche quello che nella vostra mente è "impossibile che il prof lo controlli". Beh... lo controllerà.
+
 - `Fisica` ⟶ Riassunto della teoria e formulario per gli esercizi;
+
+    *Consiglio da senpai* 🐸: Il professor Bravin è bravissimo, la mia traccia è stata difficile ma i successivi sono stati davvero facili. Fate tanti esercizi e studiate la teoria (dai miei appunti 😊).
+
 - `Reti e Sistemi Operativi` ⟶ Formulario di Reti e Sistemi Operativi + Sbobine di tutte le lezioni (N.B. possono esserci errori);
+
+    *Consiglio da senpai* 🐸: Gli esercizi di Reti sono difficili (per me), esercitatevi a farli. Andate sempre alla revisione perchè spesso i prof sbagliano a correggere.
+
 - `Linguaggi e Computabilità` ⟶ Appunti delle lezioni;
 
-_Anno Accademico in corso._
+    *Consiglio da senpai* 🐸: Al T1, una passeggiata. Il professore è un pezzo di pane, fate un paio di esercizi, preparate principalmente. Al nostro anno, le domande più gettonate erano su Automi a Pila, Macchine di Turing e epsilon-NFA.
 
-### Terzo anno (-)
+
+#### Secondo Semestre
+
+- `Analisi e Progettazione del Software` ⟶ Appunti del corso. Sono in corso di riscrittura.
+
+    *Consiglio da senpai* 🐸: Progetto tosto, ti prende tantissimo tempo e all'orale potresti potenzialmente piangere. Se il professore si sveglia storto, verrete bocciati. State sicuri che vi chiedono di disegnare i Design Pattern e se vi dicono di no, vi stanno mentendo.
+
+- `Basi di Dati` ⟶ Nessun appunto.
+
+    *Consiglio da senpai* 🐸: Non conviene studiare la teoria, non viene chiesta. Attenzione al tempo e fate tanti esercizi. Fate sempre il laboratorio per i 3 punti, anche se non sapete niente qualche punto riuscite a racimolare.
+
+- `Probabilità e Statistica` ⟶ Nessun appunto.
+
+    *Consiglio da senpai* 🐸: Solo tantissimi esercizi. La mia tecnica per imparare gli esercizi è stato seguire le esercitazioni e capire da sola come risolverli mediante il sacro formulario. Fate il report!
+
+- `Sistemi Distribuiti` ⟶ Appunti COMPLETI
+
+    *Consiglio da senpai* 🐸: **FATE. IL. TOTALE.** Lasciate perdere i compitini, sono un'inculata pazzesca. 
+
+
+### Terzo anno (A.A. 24/25) 🥲
+
+_Anno Accademico in corso._
 
 ## ❕ Disclaimer
 In questa repository non sono presenti una buona parte dei corsi affrontati fino ad ora in quanto per alcuni di essi ho ritenuto più opportuno adottare un metodo di studio diverso.
