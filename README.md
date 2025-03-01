@@ -72,9 +72,28 @@
 
 
 ### Terzo anno (A.A. 24/25) 🥲
+#### Primo Semestre
 
-_Anno Accademico in corso._
+- `Analisi e Progetto di Algoritmi` ⟶ Appunti teorici
 
+    *Consiglio da senpai* 🐸: Non c'è molto da dire, direi che è l'esame più difficile della triennale.
+
+- `Ricerca Operativa e Pianificazione delle risorse` ⟶ Flashcard Anki
+
+    *Consiglio da senpai* 🐸: Fate moltissimi esercizi, andate ai tutoraggi che sono super utili. La teoria è studiabile in meno di una settimana.
+
+- `Interazione Uomo-Macchina` ⟶ Appunti teorici + Relazione del progetto
+
+    *Consiglio da senpai* 🐸: Progetto pesante se si vuole ottenere un buon voto. L'esame è facile, andate sempre al primo appello dello scritto perchè è molto buono con i voti.
+
+- `Programmazione di Dispositivi Mobili` ⟶ Progetto nella repo DealDetective
+
+    *Consiglio da senpai* 🐸: Bel progettino, ottimo modo per mettersi alla prova. Quest'anno non c'è stata la parte teorica, ma ho sentito voci che dall'anno prossimo vogliono inserire delle domande di teoria oltre al progetto. Vi boccia se non fate bene l'architettura, ma sono buonissimi con i voti se rispettate le richieste.
+
+#### Secondo Semestre
+
+Semestre in corso.
+  
 ## ❕ Disclaimer
 In questa repository non sono presenti una buona parte dei corsi affrontati fino ad ora in quanto per alcuni di essi ho ritenuto più opportuno adottare un metodo di studio diverso.
 
