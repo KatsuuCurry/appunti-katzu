@@ -92,7 +92,7 @@
 
 #### Secondo Semestre
 
-- `Analisi e Progetto di Algoritmi` ⟶ Anki Flashcard del Secondo Parziale (Teoria)
+- `Sicurezza e Affidabilità` ⟶ Anki Flashcard del Secondo Parziale (Teoria)
 
     *Consiglio da senpai* 🐸: Non è un esame difficile, ti da delle basi di Sicurezza 😊
   
