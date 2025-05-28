@@ -86,13 +86,15 @@
 
     *Consiglio da senpai* 🐸: Progetto pesante se si vuole ottenere un buon voto. L'esame è facile, andate sempre al primo appello dello scritto perchè è molto buono con i voti.
 
-- `Programmazione di Dispositivi Mobili` ⟶ Progetto nella repo DealDetective
+- `Programmazione di Dispositivi Mobili` ⟶ Progetto nella repo <a href="https://github.com/KatsuuCurry/DealDetective" target="_blank">DealDetective</a>
 
     *Consiglio da senpai* 🐸: Bel progettino, ottimo modo per mettersi alla prova. Quest'anno non c'è stata la parte teorica, ma ho sentito voci che dall'anno prossimo vogliono inserire delle domande di teoria oltre al progetto. Vi boccia se non fate bene l'architettura, ma sono buonissimi con i voti se rispettate le richieste.
 
 #### Secondo Semestre
 
-Semestre in corso.
+- `Analisi e Progetto di Algoritmi` ⟶ Anki Flashcard del Secondo Parziale (Teoria)
+
+    *Consiglio da senpai* 🐸: Non è un esame difficile, ti da delle basi di Sicurezza 😊
   
 ## ❕ Disclaimer
 In questa repository non sono presenti una buona parte dei corsi affrontati fino ad ora in quanto per alcuni di essi ho ritenuto più opportuno adottare un metodo di studio diverso.
