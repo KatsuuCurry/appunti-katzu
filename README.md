@@ -54,7 +54,7 @@
 
 #### Secondo Semestre
 
-- `Analisi e Progettazione del Software` ⟶ Appunti del corso. Sono in corso di riscrittura.
+- `Analisi e Progettazione del Software` ⟶ Appunti del corso completi per l'orale. Non è completo per svolgere i progetti, non ho inserito tutta la parte di notazione.
 
     *Consiglio da senpai* 🐸: Progetto tosto, ti prende tantissimo tempo e all'orale potresti potenzialmente piangere. Se il professore si sveglia storto, verrete bocciati. State sicuri che vi chiedono di disegnare i Design Pattern e se vi dicono di no, vi stanno mentendo.
 
